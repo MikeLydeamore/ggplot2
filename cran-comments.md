@@ -1,2 +1,2 @@
-This is a small patch release fixing regressions from the last release. No
-issues with reverse dependencies detected.
+This is a patch release that resolves a built-time that might have occurred among different rlang versions.
+The change is so minimal that we expect no reverse dependencies to be affected.
